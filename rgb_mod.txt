@@ -1,0 +1,25 @@
+255 218 185		peach puff
+230 230 250		lavender
+  0   0   0		black
+190 190 190		grey
+106  90 205		slate blue
+  0   0 255		blue
+173 216 230		light blue
+ 64 224 208		turquoise
+  0 255 255		cyan
+ 85 107  47		dark olive green
+  0 255   0		green
+127 255   0		chartreuse
+255 255   0		yellow
+255 215   0 		gold
+210 180 140		tan
+165  42  42		brown
+250 128 114		salmon
+255 165   0		orange
+255 127  80		coral
+255   0   0		red
+255 192 203		pink
+176  48  96		maroon
+255   0 255		magenta
+218 112 214		orchid
+160  32 240		purple

@@ -1,0 +1,24 @@
+"En Garde !" est un jeu de société classique qui simule un duel d'escrime entre deux joueurs.
+Le jeu se joue généralement avec un jeu de cartes (de 1 à 5) et des règles qui déterminent les mouvements et les actions possibles des joueurs.
+
+Objectif du jeu :
+Le but du jeu est de marquer des points en touchant l'adversaire avec son épée tout en évitant d'être touché.
+Le premier joueur qui atteint les cinq points gagne la partie.
+
+Déroulement de la partie :
+
+Déplacement des joueurs :
+Le joueur dont c'est le tour choisit l'une des cartes de sa main et avance (ou recule) de la valeur de la carte qu'il a choisie.
+
+Attaque :
+Si le joueur se déplace exactement sur la case de l'adversaire, alors il lance une attaque.
+Si l'attaque n'est pas bien défendue par l'autre joueur, alors le joueur ayant lancé l'attaque gagne un point.
+
+Défense :
+Si vous avez subi une attaque, vous avez la possibilité de vous défendre en choisissant une carte de votre main de la même valeur que celle qui a permis à l'adversaire d'attaquer.
+Si la carte choisie correspond, alors le jeu reprend son cours ; sinon, l'adversaire marque un point.
+
+Autre moyen de gagner un point :
+S'il n'y a plus de cartes dans le deck à piocher, alors le joueur qui sera le plus avancé vers le centre du plateau remporte un point.
+
+Je rappelle que c'est une version primitive (imparfaite) du jeu "En Garde !" et que si je devais travailler sur une version définitive, je me permettrai d'ajouter d'autres fonctionnalités comme la gestion des cartes défaussées, la possibilité de jouer plusieurs cartes à la fois, des cartes d'attaque et de défense spéciales, la possibilité de jouer à plus de deux joueurs, et plein d'autres idées qui permettraient de rendre le jeu plus ludique.
